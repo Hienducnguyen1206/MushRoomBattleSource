@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0a576086e91ba4e4dbcfbc1e849e99bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thunderStaffData: {fileID: 11400000, guid: 5ebcb3823ad7c3940bd2ab94d785459e, type: 2}
+  - firePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealBox
+  - Ground
+  - Enemy
+  - ExpBar
+  - Coins
+  - NormalChestUI
+  - LegendaryChestUI
+  - EpicChestUI
+  - RareChestUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Groud
+  - Enemy
+  - Enviorment
+  - Bullet
+  - MonsterBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Model
+    uniqueID: 728747573
+    locked: 0
+  - name: Effect
+    uniqueID: 2713310257
+    locked: 0
+  - name: UI
+    uniqueID: 2567746707
+    locked: 0

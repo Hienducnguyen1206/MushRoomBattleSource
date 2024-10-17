@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d16392dd92e90de40bf20d093612d111, type: 3}
+  m_Name: PhysicCritialDamagePopUp
+  m_EditorClassIdentifier: 
+  effectName: PhysicCritialDamagePopUp
+  EffectPrefab: {fileID: 3770585326721423189, guid: 3f58dfdea65cd284b9883e8a2826b23b,
+    type: 3}
+  defaultCapacity: 10
+  maxSize: 1000

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95777c0d67eb5714d8347a2a8d9f9299, type: 3}
+  m_Name: Blessings from heaven
+  m_EditorClassIdentifier: 
+  cardID: 503
+  cardName: Blessings from Heaven
+  ReDrawCost: 5
+  BuyCost: 99
+  cardType: 3
+  cardImage: {fileID: 21300000, guid: ab1e721a777292746ba396789f38ae1e, type: 3}
+  attributes:
+  - attributeName: 5
+    atributeType: 0
+    attributeValue: 20
+  - attributeName: 11
+    atributeType: 0
+    attributeValue: 20

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1950a4ff044788944a8ed71c9c588631
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - riftData: {fileID: 11400000, guid: c2cfa53f39c546d408060718e9be183f, type: 2}
+  - riftBullet: {fileID: 11400000, guid: 84c2a6d10c7a64f499e370536e9f4f68, type: 2}
+  - firePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

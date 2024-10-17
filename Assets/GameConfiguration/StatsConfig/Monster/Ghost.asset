@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42fb3641bf5573045b972f2cfe1caf92, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier: 
+  Name: BlackGhost
+  MoveSpeed: 1.7
+  HP: 150
+  AttackDamage: 5
+  AttackRange: 4.71
+  AttackPerSecond: 1
+  Armor: 20
+  MagicResistance: 20
+  MinCoin: 1
+  MaxCoin: 2
+  Exp: 1
+  percentToSpawnNormalChest: 6
+  percentToSpawnRareChest: 2
+  percentToSpawnEpicChest: 1
+  percentToSpawnLegendaryChest: 0.06

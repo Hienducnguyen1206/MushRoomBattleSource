@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efaf830d6a65da342a9a5858c098b3e6, type: 3}
+  m_Name: BlackGhost
+  m_EditorClassIdentifier: 
+  monsterName: BlackGhost
+  MonsterPrefab: {fileID: 2883322691683964731, guid: 349d552c1df1f994b9501d16a7e9143a,
+    type: 3}
+  defaultCapacity: 10
+  maxSize: 40

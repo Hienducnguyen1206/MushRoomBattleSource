@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95777c0d67eb5714d8347a2a8d9f9299, type: 3}
+  m_Name: MirrorForce
+  m_EditorClassIdentifier: 
+  cardID: 406
+  cardName: Mirror Force
+  ReDrawCost: 4
+  BuyCost: 55
+  cardType: 2
+  cardImage: {fileID: 21300000, guid: 26a931f7cadf13a45bc7565e4746386d, type: 3}
+  attributes:
+  - attributeName: 10
+    atributeType: 0
+    attributeValue: 10
+  - attributeName: 2
+    atributeType: 0
+    attributeValue: 3
+  - attributeName: 12
+    atributeType: 0
+    attributeValue: 0.5

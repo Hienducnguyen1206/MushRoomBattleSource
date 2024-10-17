@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95777c0d67eb5714d8347a2a8d9f9299, type: 3}
+  m_Name: CrossAttack
+  m_EditorClassIdentifier: 
+  cardID: 101
+  cardName: Cross Attack
+  ReDrawCost: 5
+  BuyCost: 99
+  cardType: 3
+  cardImage: {fileID: 21300000, guid: 286dc0a95684e2a438a427de851162e7, type: 3}
+  attributes:
+  - attributeName: 11
+    atributeType: 0
+    attributeValue: 1
+  - attributeName: 8
+    atributeType: 0
+    attributeValue: 15
+  - attributeName: 9
+    atributeType: 0
+    attributeValue: 15
+  - attributeName: 10
+    atributeType: 0
+    attributeValue: 15
+  - attributeName: 13
+    atributeType: 0
+    attributeValue: 1
